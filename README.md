@@ -1,6 +1,6 @@
 # APCS
 
-A Compilation of code implemented in my APCS class:
+A compilation of code implemented in my APCS class:
 
 - https://github.com/szou00/MKS21X-Hello 
 - https://github.com/szou00/MKS21X-CtoF
@@ -16,7 +16,6 @@ A Compilation of code implemented in my APCS class:
 - https://github.com/szou00/MKS21X-CodeAnywhere
 - https://github.com/szou00/MKS21X-Sorts
 - https://github.com/szou00/MKS21X-LinkedList
-- https://github.com/szou00/TwoPlayerChess
 - https://github.com/szou00/MKS22X-Queens
 - https://github.com/szou00/MKS22X-Knight
 - https://github.com/szou00/MKS22X-Maze
@@ -29,4 +28,7 @@ A Compilation of code implemented in my APCS class:
 - https://github.com/szou00/MKS22X-Radix
 - https://github.com/szou00/MKS22X-ExpressionTree
 - https://github.com/szou00/MKS22X-Heap
-- https://github.com/szou00/MKS22X-ProcessingBasics
+
+## Final Projects
+- https://github.com/szou00/TwoPlayerChess: implemented two player chess in terminal 
+- https://github.com/szou00/MKS22X-ProcessingBasics: created a solar system simulation with Processing
