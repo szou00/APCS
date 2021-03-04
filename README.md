@@ -1,6 +1,6 @@
-# APCS
+# Java Projects
 
-A compilation of code implemented in my APCS class:
+A compilation of code implemented in my APCS class, where I became familiar with the Java language for the first time:
 
 - https://github.com/szou00/MKS21X-Sorts
 - https://github.com/szou00/MKS21X-LinkedList
